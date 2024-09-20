@@ -1,2 +1,2 @@
 # Time-MoneyController
-Repositiorio para el proyecto de Infraestructura Virtual.
+Repositorio para el proyecto de Infraestructura Virtual.
