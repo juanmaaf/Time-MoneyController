@@ -1,6 +1,4 @@
-# Time-MoneyController
+# MoneyController
 Repositorio para el proyecto de Infraestructura Virtual.
 ## Problema a Resolver
-Un alumno de Ingeniería Informática tiene problemas de tiempo y presupuesto, ya que no termina los trabajos a tiempo ni llega a final de mes. Le gustaría poder planificar correctamente su tiempo, pudiendo cumplir con sus deberes y tener tiempo de ocio. Además, quisiera mantener un control de su presupuesto personal, comprobando si se puede permitir un gasto concreto teniendo en cuenta sus gastos fijos y su ahorro deseado. 
-
-Para poder mejorar su hábito, también quisiera poder ver los planes de presupuesto y tiempo de otras personas, para poder tomarlos como ejemplo.
+Un alumno de Ingeniería Informática tiene problemas de presupuesto, ya que no consigue llegar a final de mes económicamente. Cada mes tiene unos gastos fijos determinados, como alquiler y gastos asociados a luz, agua e internet. Dentro de su presupuesto también tiene una serie de gastos variables en función de si quiere ir al gimnasio o realizar actividades deportivas con sus compañeros de clase semanalmente. Por último, destina también parte de su presupuesto a ahorro. Su problema consiste principalmente en que no sabe si puede permitirse un determinado gasto adicional además de los anteriores, sea por ocio o causa forzada. Le gustaría poder mantener correctamente un control de su presupuesto personal con el objetivo de llegar bien a final de mes. 
