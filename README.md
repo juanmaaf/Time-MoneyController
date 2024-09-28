@@ -27,7 +27,8 @@ Se han definido los siguientes user journeys:
 Se han definido los siguientes milestones principales:
 1. [M0] - Fundamentos del Proyecto
 2. [M1] - Primeras Funcionalidades
-3. [M2] - Funcionalidades Adicionales  
+3. [M2] - Funcionalidades Adicionales 
+
 Se han definido los siguientes milestones adicionales:
 1. [M3] - Resumen Finaciero Mensual y Recordatorios Automáticos
 2. [M4] - Despliegue en Nube  
