@@ -6,10 +6,30 @@ Un alumno de Ingeniería Informática tiene problemas de presupuesto, ya que no 
 
 ## Desarrollo del Proyecto
 ### Historias de Usuario
+Se han definido las siguientes historias de usuario: 
+1. [HU1] - Gestión de gastos fijos
+2. [HU2] - Registro de gastos variables
+3. [HU3] - Plan de ahorro mensual
+4. [HU4] - Control de gasto adicional  
+
 [Historias de Usuario](/docs/historias_usuario.md)  
 
 ### User Journeys
+Se han definido los siguientes user journeys:
+1. [US1] - Registro de Gastos Fijos
+2. [US2] - Control de Gastos Variables
+3. [US3] - Decisión de Realizar un Gasto Adicional
+4. [US4] - Revisión Mensual y Ahorro  
+
 [User Journeys](/docs/user_journeys.md)  
 
 ### Milestones
+Se han definido los siguientes milestones principales:
+1. [M0] - Fundamentos del Proyecto
+2. [M1] - Primeras Funcionalidades
+3. [M2] - Funcionalidades Adicionales  
+Se han definido los siguientes milestones adicionales:
+1. [M3] - Resumen Finaciero Mensual y Recordatorios Automáticos
+2. [M4] - Despliegue en Nube  
+
 [Milestones](/docs/milestones.md)  

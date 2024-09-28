@@ -20,9 +20,9 @@ HU asignadas: [HU3], [HU4].
 
 ## Milestones Adicionales
 
-## [M3] - Resumen Finaciero Mensual y Recordatorios Automáticos
+### [M3] - Resumen Finaciero Mensual y Recordatorios Automáticos
 
-## [M4] - Despliegue en Nube
+### [M4] - Despliegue en Nube
 
 
 
