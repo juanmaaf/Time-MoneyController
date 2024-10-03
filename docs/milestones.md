@@ -12,7 +12,7 @@ Entregable: Código que permita al usuario registrar sus gastos fijo.
 PMV: El usuario puede añadir, editar y visualizar sus gastos fijos.  
 HU asignada: [HU1].  
 
-## [M1] - Registro de Gastos Variables
+## [M2] - Registro de Gastos Variables
 Descripción: Permitir que el usuario pueda los gastos variables.  
 Entregable: Código que permita al usuario registrar sus gastos variables.  
 PMV: El usuario puede añadir, editar y visualizar sus gastos variables.  
