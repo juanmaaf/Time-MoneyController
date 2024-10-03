@@ -26,11 +26,12 @@ Se han definido los siguientes user journeys:
 ### Milestones
 Se han definido los siguientes milestones principales:
 1. [M0] - Fundamentos del Proyecto
-2. [M1] - Primeras Funcionalidades
-3. [M2] - Funcionalidades Adicionales 
+2. [M1] - Registro de Gastos Fijos
+3. [M2] - Registro de Gastos Variables
+4. [M3] - Funcionalidades Adicionales
 
 Se han definido los siguientes milestones adicionales:
-1. [M3] - Resumen Finaciero Mensual y Recordatorios Automáticos
-2. [M4] - Despliegue en Nube  
+1. [M4] - Resumen Finaciero Mensual y Recordatorios Automáticos
+2. [M5] - Despliegue en Nube  
 
 [Milestones](/docs/milestones.md)  
