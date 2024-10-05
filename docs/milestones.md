@@ -6,29 +6,27 @@ Entregable: Definir los requisitos iniciales, registrar las primeras historias d
 Producto mínimo viable (PMV): El repositorio en GitHub contiene la planificación inicial del proyecto y las historias de usuario.  
 HU asignadas: [HU1], [HU2], [HU3], [HU4].  
  
-## [M1] - Gestión de Gastos Fijos
-Descripción: Permitir que el usuario pueda gestionar los gastos fijos.  
-Entregable: Código que permita al usuario registrar sus gastos fijo.  
-PMV: El usuario puede añadir, editar y visualizar sus gastos fijos, comprobando si puede permitírselos en su presupuesto.  
+## [M1] - Gestión de Gastos Fijos y Configuración Inicial
+Descripción: Permitir al usuario gestionar sus gastos fijos y configurar el sistema para personalizar sus recomendaciones financieras.  
+Entregable: Código que permite al usuario configurar su perfil financiero e ingresar gastos fijos.  
+PMV: El usuario puede añadir y editar gastos fijos, y configurar sus metas de ahorro, ingresos y límites de gasto para obtener predicciones personalizadas.  
 HU asignada: [HU1].  
 
-## [M2] - Gestión de Gastos Variables
-Descripción: Permitir que el usuario pueda los gastos variables.  
-Entregable: Código que permita al usuario registrar sus gastos variables.  
-PMV: El usuario puede añadir, editar y visualizar sus gastos variables, comprobando si puede permitírselos en su presupuesto.  
+## [M2] - Registro de Gastos Variables y Predicciones basadas en Estacionalidad
+Descripción: Permitir al usuario registrar y visualizar sus gastos variables, con predicciones basadas en el comportamiento de meses anteriores y factores estacionales.  
+Entregable: Código que permita al usuario registrar sus gastos variables y recibir predicciones sobre cómo afectarán su presupuesto futuro.  
+PMV: El sistema genera predicciones de gastos variables basadas en patrones históricos y estacionalidad.  
 HU asignada: [HU2].  
 
-## [M3] - Plan de Ahorro y Gastos Adicionales
-Descripción: Permitir al usuario gestionar su plan de ahorro mensual y evaluar si puede realizar un gasto adicional sin comprometer su capacidad de cubrir gastos fijos y ahorrar.  
-Entregable: Código necesario para que el usuario configure un plan de ahorro y un sistema que evalúe la viabilidad de gastos adicionales.  
-Producto mínimo viable (PMV): El usuario puede configurar un plan de ahorro y, además, evaluar si un gasto adicional es viable según su presupuesto disponible.  
+## [M3] - Plan de Ahorro y Evaluación de la Viabilidad de Gastos Adicionales
+Descripción: Permitir al usuario gestionar un plan de ahorro mensual y utilizar análisis predictivo para evaluar la viabilidad de realizar un gasto adicional (como ocio o una compra), teniendo en cuenta sus gastos fijos, variables, estacionales y el impacto sobre su capacidad de ahorro.  
+Entregable: Código que permite al usuario configurar un plan de ahorro y recibir predicciones detalladas sobre cómo un gasto adicional afectaría su presupuesto, considerando tanto gastos fijos como variables.  
+Producto mínimo viable (PMV): El usuario puede configurar un plan de ahorro y el sistema utiliza el análisis predictivo para evaluar si un gasto adicional es viable, mostrando el impacto en el presupuesto y en la capacidad de cumplir con el plan de ahorro.  
 HU asignadas: [HU3], [HU4].  
 
 ## Milestones Adicionales
 
-### [M4] - Resumen Finaciero Mensual y Recordatorios Automáticos
-
-### [M5] - Despliegue en Nube
+### [M4] - Revisión Mensual y Ajustes Financieros
 
 
 

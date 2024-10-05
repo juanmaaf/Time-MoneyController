@@ -1,46 +1,37 @@
 # User Journeys
 
 ## [US1] - Registro de Gastos Fijos
-Contexto: Un estudiante tiene problemas para llegar a fin de mes y decide usar la aplicación para organizar sus finanzas.  
-Frecuencia de uso: Una vez al inicio del mes, cada vez que se generan los gastos fijos.  
-Dispositivo: Móvil o portátil.  
+Contexto: El estudiante tiene una serie de gastos fijos como el alquiler y la comunidad de vecinos que quiere registrar en la aplicación para tener claro cuánto de su presupuesto está comprometido cada mes.  
 Pasos:  
-1. El estudiante abre la aplicación y selecciona la opción "Registrar gastos fijos".
-2. Ingresa los datos sobre alquiler, luz, agua e internet.
-3. El sistema guarda los datos y muestra un resumen de los gastos fijos.
-4. El estudiante cierra la aplicación.  
-Beneficio: El estudiante sabe cuánto de su presupuesto está destinado a gastos fijos desde el inicio del mes.
+1. El estudiante selecciona "Registrar gastos fijos" en la aplicación.
+2. Introduce los datos de sus gastos fijos (alquiler, comunidad de vecinos, internet).
+3. La aplicación guarda los datos y muestra un resumen del total de gastos fijos del mes.
+4. El estudiante revisa el balance de su presupuesto restante.  
+Beneficio: Saber cuánto de su presupuesto mensual está comprometido con gastos fijos, lo que facilita la planificación de otros gastos.  
 
-## [US2] - Control de Gastos Variables
-Contexto: Durante el mes, el estudiante gasta dinero en ocio y deportes. Quiere registrar estos gastos para llevar un control más preciso.  
-Frecuencia de uso: Varias veces al mes, cada vez que surge un gasto variable.  
-Dispositivo: Móvil, para registrar los gastos mientras está fuera de casa.  
-Pasos:  
-1. El estudiante abre la aplicación y selecciona la opción "Agregar gasto variable".
-2. Ingresa el tipo de gasto (por ejemplo, "Cine") y la cantidad gastada.
-3. El sistema actualiza el balance del presupuesto, mostrando cuánto dinero queda disponible para el resto del mes.
-4. El estudiante revisa si el saldo restante es suficiente para continuar con los gastos variables o debe ajustarlos.  
-Beneficio: El estudiante puede realizar un seguimiento de sus gastos variables y ajustar sus hábitos de gasto según sea necesario.
+## [US2] - Registro y Predicción de Gastos Variables
+Contexto: Durante el mes, el estudiante tiene gastos variables, incluidos ocio y gastos estacionales (como electricidad o agua). Quiere registrar estos gastos, y además recibir predicciones basadas en su comportamiento anterior.  
+Pasos:
+1. El estudiante selecciona "Agregar gasto variable" en la aplicación.
+2. Introduce el tipo de gasto (por ejemplo, "Cine", "Electricidad") y la cantidad.
+3. El sistema actualiza el balance del presupuesto y genera una predicción basada en los meses anteriores y en factores estacionales.
+4. La aplicación muestra cómo estos gastos afectarán el presupuesto futuro del estudiante.  
+Beneficio: Prever el impacto de los gastos variables, especialmente los estacionales, y tomar decisiones más acertadas respecto al presupuesto restante.  
 
-## [US3] - Decisión de Realizar un Gasto Adicional
-Contexto: El estudiante ve una oferta en internet y quiere comprar algo (por ejemplo, una nueva mochila), pero no está seguro de si puede permitírselo.  
-Frecuencia de uso: Ocasional, cuando se considera hacer un gasto adicional.  
-Dispositivo: Móvil o portátil.  
+## [US3] - Evaluación de la Viabilidad de un Gasto Adicional con Análisis Predictivo
+Contexto: El estudiante está considerando realizar un gasto no planificado (como una compra o gasto de ocio) y quiere saber si podrá permitírselo en función de su comportamiento financiero de meses anteriores.  
 Pasos:  
-1. El estudiante abre la aplicación y selecciona la opción "Evaluar gasto adicional".
-2. Ingresa el monto del gasto que quiere realizar.
-3. El sistema analiza el presupuesto disponible, los gastos fijos, variables y el ahorro asignado.
-4. La aplicación le indica si puede permitirse el gasto sin comprometer su capacidad para cubrir los otros gastos.
-5. El estudiante toma una decisión informada.
-Beneficio: El estudiante evita realizar gastos innecesarios que comprometan su estabilidad financiera.  
+1. El estudiante selecciona "Evaluar gasto adicional".
+2. Introduce el monto del gasto que quiere realizar.
+3. El sistema analiza el presupuesto disponible y compara el comportamiento de los meses anteriores, teniendo en cuenta los gastos fijos, variables, estacionales y el plan de ahorro.
+4. La aplicación muestra una recomendación visual sobre si el gasto es viable, basándose en predicciones futuras.  
+Beneficio: Tomar decisiones informadas sobre la viabilidad de un gasto adicional basadas en patrones históricos y predicciones. 
 
-## [US4] - Revisión Mensual y Ahorro
-Contexto: Al final del mes, el estudiante quiere revisar su desempeño financiero y asegurarse de haber apartado dinero para sus ahorros.  
-Frecuencia de uso: Una vez al mes, al cierre de cada ciclo financiero.  
-Dispositivo: Portátil, para tener una visión completa de los datos.  
+## [US4] - Revisión Mensual y Planificación Futura con Predicciones Ajustadas
+Contexto: Al final de cada mes, el estudiante quiere revisar su desempeño financiero y ajustarlo para el próximo mes con base en predicciones sobre sus gastos futuros, considerando patrones y estacionalidad.  
 Pasos:  
-1. El estudiante abre la aplicación y revisa el balance final del mes.
-2. Comprueba si ha cumplido con sus metas de ahorro.
-3. Si no ha ahorrado lo suficiente, el sistema le sugiere ajustes para el próximo mes.
-4. El estudiante cierra la aplicación y planifica el siguiente mes.
-Beneficio: El estudiante asegura que está cumpliendo con sus metas de ahorro y ajusta su planificación para el mes siguiente si es necesario.  
+1. El estudiante abre la aplicación y revisa el balance del mes.
+2. Verifica si ha logrado cumplir con sus metas de ahorro y presupuesto.
+3. El sistema genera predicciones ajustadas para el próximo mes, teniendo en cuenta los patrones de gasto anteriores y estacionales.
+4. El estudiante ajusta su planificación financiera en función de estas proyecciones.  
+Beneficio: Mantener un control claro sobre las finanzas personales, ajustando el presupuesto y las metas de ahorro con base en predicciones futuras más precisas.  
