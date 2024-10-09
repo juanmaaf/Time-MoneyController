@@ -17,10 +17,10 @@ Se han definido las siguientes historias de usuario:
 
 ### User Journeys
 Se han definido los siguientes user journeys:
-1. [US1] - Registro de Gastos Fijos en un Archivo de Texto
-2. [US2] - Registro y Predicción de Gastos Variables
-3. [US3] - Evaluación de Gasto Adicional con un Archivo de Texto
-4. [US4] - Revisión Mensual de Desempeño Financiero
+1. [US1] - Registro de Gastos Fijos
+2. [US2] - Registro y Seguimiento de Gastos Variables
+3. [US3] - Intento de Ahorro Mensual
+4. [US4] - Evaluación de Gasto Adicional
 
 [User Journeys](/docs/user_journeys.md)  
 

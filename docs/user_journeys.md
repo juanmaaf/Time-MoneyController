@@ -1,37 +1,31 @@
 # User Journeys
 
-## [US1] - Registro de Gastos Fijos en un Archivo de Texto
-Contexto: El estudiante tiene una serie de gastos fijos (como alquiler y comunidad de vecinos) que quiere registrar de forma organizada para entender cuánto de su presupuesto está comprometido mensualmente. Por ahora, utiliza un archivo de texto para registrar estos gastos.  
-Pasos:  
-1. El estudiante abre su archivo de texto y anota sus gastos fijos, uno por línea (por ejemplo: "Alquiler: 500", "Internet: 30").
-2. El estudiante guarda el archivo y lo carga en la aplicación.
-3. La aplicación procesa el archivo y muestra un resumen claro de los gastos fijos.
-4. El estudiante revisa su presupuesto restante una vez considerados los gastos fijos.  
-Beneficio: Saber con precisión cuánto de su presupuesto mensual está comprometido en gastos fijos y cómo impacta en su capacidad para gastar en otras áreas.    
+## [US1] - Registro de Gastos Fijos
+Contexto: El estudiante tiene gastos fijos recurrentes, como el alquiler e internet, y necesita tener una idea de cuánto tiene comprometido mensualmente.  
+Pasos habituales:  
+1. A principios de mes, el estudiante toma nota de sus gastos fijos, como el alquiler, en algún lugar, como un archivo de texto o una libreta.
+2. Escribe estos gastos a medida que los recuerda, sin un formato o estructura estricta.
+3. Revisa estos apuntes esporádicamente durante el mes, para saber cuánto dinero tiene disponible después de cubrir esos gastos fijos.   Beneficio: Mantiene una referencia aproximada de cuánto de su presupuesto ya está comprometido.  
 
-## [US2] - Registro y Predicción de Gastos Variables
-Contexto: Durante el mes, el estudiante tiene varios gastos variables, incluyendo ocio y servicios como electricidad, los cuales varían con la estacionalidad. Actualmente, los registra en un archivo de texto sin una estructura fija. Quiere que la aplicación procese estos datos y ofrezca predicciones sobre cómo afectarán a su presupuesto futuro.  
-Pasos:  
-1. El estudiante abre su archivo de texto y añade los gastos variables (por ejemplo: "Cine: 15", "Electricidad: 40").
-2. Guarda el archivo y lo sube a la aplicación.
-3. La aplicación procesa los datos y genera una predicción de cómo estos gastos afectarán su presupuesto en los próximos meses, basándose en los meses anteriores y patrones estacionales.
-4. El estudiante revisa el impacto de estos gastos en su presupuesto futuro.  
-Beneficio: Comprender cómo los gastos variables, incluidos los estacionales, afectarán su presupuesto en los próximos meses, para tomar decisiones mejor informadas.  
+## [US2] - Registro y Seguimiento de Gastos Variables
+Contexto: Durante el mes, el estudiante tiene gastos variables, como salidas y facturas que cambian cada mes, y anota estos gastos sin un control estricto.  
+Pasos habituales:  
+1. El estudiante realiza gastos variables durante el mes y los apunta de manera informal, a veces olvidando anotarlos o escribiéndolos en diferentes lugares.
+2. Reúne estos apuntes de manera desorganizada y es posible que algunos gastos no estén registrados o no sigan un orden claro.
+3. Revisa estos datos al final del mes para intentar entender cuánto ha gastado, pero la información no siempre es clara o completa.    Beneficio: Tiene un control parcial de sus gastos variables, aunque no siempre de manera precisa o estructurada.  
 
-## [US3] - Evaluación de Gasto Adicional con un Archivo de Texto
-Contexto: El estudiante está considerando hacer un gasto adicional no planificado, como una compra o una salida de ocio. Quiere saber si puede permitírselo sin comprometer su presupuesto o sus ahorros.  
-Pasos:  
-1. El estudiante introduce el monto del gasto adicional que está considerando en su archivo de texto (por ejemplo: "Compra de libros: 50").
-2. Carga el archivo en la aplicación.
-3. La aplicación analiza el impacto del gasto adicional en su presupuesto, considerando los gastos fijos, variables, estacionales y el plan de ahorro.
-4. La aplicación muestra una recomendación visual sobre si el gasto es viable o no.  
-Beneficio: Tomar decisiones informadas sobre si realizar o no un gasto adicional, evitando comprometer su presupuesto o sus ahorros.   
+## [US3] - Intento de Ahorro Mensual
+Contexto: El estudiante intenta ahorrar cada mes, pero no siempre tiene claridad sobre cuánto puede destinar al ahorro debido a la falta de seguimiento riguroso de sus gastos.  
+Pasos habituales:  
+1. A principios de mes, el estudiante establece una cantidad mentalmente para ahorrar, pero no la anota ni sigue un plan formal.
+2. A lo largo del mes, evalúa si puede seguir ahorrando en función de lo que cree que ha gastado, basándose en sus apuntes incompletos.
+3. Si descubre que ha gastado más de lo esperado, ajusta o elimina el ahorro previsto para ese mes.     
+Beneficio: Mantiene una meta de ahorro, pero la inconsistencia en el control de gastos le dificulta cumplirla regularmente.   
 
-## [US4] - Revisión Mensual de Desempeño Financiero
-Contexto: Al final de cada mes, el estudiante quiere revisar su desempeño financiero para entender si ha logrado cumplir sus metas de ahorro y ajustar su planificación para el próximo mes.  
-Pasos:  
-1. El estudiante revisa su archivo de texto con los registros de gastos del mes.
-2. Carga el archivo en la aplicación.
-3. La aplicación genera un balance del mes y predicciones ajustadas para el próximo mes, basándose en patrones de gasto anteriores y estacionales.
-4. El estudiante ajusta sus metas de ahorro y presupuesto para el próximo mes, considerando las predicciones.  
-Beneficio: Mantener un control claro sobre las finanzas personales y realizar ajustes basados en predicciones futuras más precisas.  
+## [US4] - Evaluación de Gasto Adicional
+Contexto: Durante el mes, el estudiante se encuentra con oportunidades de hacer gastos no planificados y trata de decidir si puede permitírselo.    
+Pasos habituales:  
+1. Cuando surge un gasto extra, el estudiante revisa mentalmente cuánto cree que ha gastado hasta el momento.
+2. A veces recurre a sus apuntes para intentar verificar cuánto le queda disponible, aunque la información puede no estar completa o clara.
+3. Finalmente, toma la decisión de realizar o no el gasto, basándose en una estimación aproximada de su situación financiera.   
+Beneficio: Trata de tomar decisiones conscientes sobre gastos adicionales, aunque a menudo se basa en información incompleta.  
