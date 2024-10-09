@@ -8,19 +8,19 @@ Un alumno de Ingeniería Informática tiene problemas de presupuesto, ya que no 
 ## Desarrollo del Proyecto
 ### Historias de Usuario
 Se han definido las siguientes historias de usuario: 
-1. [HU1] - Gestión de Gastos Fijos
-2. [HU2] - Registro y Predicción de Gastos Variables
-3. [HU3] - Planificación de Ahorro con Proyecciones de Gastos
-4. [HU4] - Evaluación de la Viabilidad de Gastos Adicionales basados en Patrones Históricos
+1. [HU1] - Falta de Control sobre los Gastos Fijos
+2. [HU2] - Dificultad para Prever los Gastos Variables
+3. [HU3] - Incapacidad para Planificar Ahorros Debido a Gastos Inciertos
+4. [HU4] - Falta de Información para Decidir si un Gasto Adicional es Viable
 
 [Historias de Usuario](/docs/historias_usuario.md)  
 
 ### User Journeys
 Se han definido los siguientes user journeys:
-1. [US1] - Registro de Gastos Fijos
+1. [US1] - Registro de Gastos Fijos en un Archivo de Texto
 2. [US2] - Registro y Predicción de Gastos Variables
-3. [US3] - Evaluación de la Viabilidad de un Gasto Adicional con Análisis Predictivo
-4. [US4] - Revisión Mensual y Planificación Futura con Predicciones Ajustadas
+3. [US3] - Evaluación de Gasto Adicional con un Archivo de Texto
+4. [US4] - Revisión Mensual de Desempeño Financiero
 
 [User Journeys](/docs/user_journeys.md)  
 
